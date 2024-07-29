@@ -1,6 +1,6 @@
 # CMPG-323-Overview--38924846
 # Project Overview
-This repository serves as the central hub for comprehensive documentation across all projects.
+This repository serves as the central hub for comprehensive planning accross all projects.
 🚴‍♀️🚴‍♂️
 # Repositories
 1. CMPG-323-Overview-38924846  This repository will be used for project 1.
