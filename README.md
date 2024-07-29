@@ -10,7 +10,7 @@ This repository serves as the central hub for comprehensive documentation across
 5. CMPG 323-Project 3-38924846 This repository will be used for project 5.
 
 # Documentation
-This is the lean document https://github.com/WestKamo/CMPG-323-Overview--38924846/blob/main/Lean%20Technical%20Documentation%20Template.docx  
+This is the lean document [https://github.com/WestKamo/CMPG-323-Overview--38924846/blob/main/Lean%20Technical%20Documentation%20Template.docx](https://github.com/WestKamo/CMPG-323-Overview--38924846/blob/main/Lean%20Technical%20Documentation%20Template_38924846.docx)  
 
 # Branching Strategy Overview
 1.	Main Branches:
