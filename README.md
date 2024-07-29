@@ -11,6 +11,8 @@ This repository serves as the central hub for comprehensive planning accross all
 
 # Documentation
 This is the lean document [https://github.com/WestKamo/CMPG-323-Overview--38924846/blob/main/Lean%20Technical%20Documentation%20Template.docx](https://github.com/WestKamo/CMPG-323-Overview--38924846/blob/main/Lean%20Technical%20Documentation%20Template_38924846.docx)  
+#Burndown Chart
+
 
 # Branching Strategy Overview
 1.	Main Branches:
